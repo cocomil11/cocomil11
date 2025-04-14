@@ -37,5 +37,5 @@ I’m a Ph.D. candidate in the Department of Computer Science and Engineering at
 
 My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I’m particularly interested in using AR/VR as a medium for data visualization, with the goal of enabling more effective data exploration and communication. My work has been presented at leading conferences such as AAAI, CHI, ACM Multimedia, and IEEE VIS.
 
-Before starting my Ph.D., I worked in Tokyo as a data scientist, supporting data analysis across various industries at both a leading consulting firm and a startup. I built and deployed end-to-end systems for demand forecasting and causal inference, and also provided corporate training and online courses on data analysis. I’m also passionate about using ICT for humanitarian purposes and actively engage in pro bono projects that aim to create social impact.
+Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup, building systems for demand forecasting and causal inference. I also taught data analysis through corporate training and online courses. I’m also passionate about using ICT for humanitarian purposes and actively engage in pro bono projects.
 <!-- ![Your Image Description](/assets/img/1.jpg) -->
