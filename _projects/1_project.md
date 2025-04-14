@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: AI for Humanitarian Planning
+description: Working in collaboration with the United Nations, we investigated refugee destination prediction in the Democratic Republic of Congo. After evaluating the role of information technology in refugee support, our team developed a model to predict group movements based on factors such as conflict patterns, local ethnic composition, language, and geography. Accurately forecasting these flows helps ensure more effective distribution of humanitarian aid. Our findings were presented at the International Development Conference and featured in a Bright Network book chapter. For more details, please see the Publications
+img: assets/img/refugee.png
+redirect: https://link.springer.com/chapter/10.1007/978-3-030-77987-0_14
 importance: 1
-category: work
 related_publications: true
+tags: [AR, Public]
 ---
 
 Every project has a beautiful feature showcase page.

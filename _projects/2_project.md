@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: AR Ricci's Map
+description: At the "China in Maps" exhibition at the HKUST Library, we designed and implemented an AR system that enhances the historically significant 1602 world map by Matteo Ricci. Our system offers visitors an engaging and interactive experience, allowing them to compare different maps, access multilingual content, and explore Ricci's map projected onto a physical globe. The exhibition is scheduled to run for one year starting in October 2023.
+img: assets/img/riccimap.jpg
+redirect: https://library.hkust.edu.hk/china-in-maps/
 importance: 2
-category: work
 giscus_comments: true
+tags: [AI, ICT4D]
+
 ---
 
 Every project has a beautiful feature showcase page.
