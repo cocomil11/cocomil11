@@ -1,0 +1,13 @@
+<div class="new-section">
+  {% for pair in page.new_section.pairs %}
+    <div class="row mb-4">
+      <div class="col-sm-4">
+        {% assign section_image_path = pair.image | prepend: 'assets/img/' %}
+        {% include figure.liquid path=section_image_path class="img-fluid rounded" %}
+      </div>
+      <div class="col-sm-8">
+        {{ pair.text }}
+      </div>
+    </div>
+  {% endfor %}
+</div> 

@@ -25,9 +25,57 @@ announcements:
 #   enabled: true
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
+
+new_section:
+  enabled: true
+  title: "online courses"  # Title for the section
+  pairs:
+    - image: schoo1.png  # Using image from papers.bib preview
+      text: >
+        <div class="course-item">
+          <p class="course-title"><strong>Practical Graph Design</strong></p>
+          <p class="course-description">This course teaches how to choose and design effective charts through hands-on exercises. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication.
+          </p>
+          <p>
+          <i class="fa-solid fa-users"></i>  Everyone working with data
+          </p>
+          <a href="https://schoo.jp/course/7137" class="course-link">
+            <i class="fas fa-external-link-alt"></i> Course Link
+          </a>
+        </div>
+    - image: schoo2.png  # Using image from papers.bib preview
+      text: >
+        <div class="course-item">
+          <p class="course-title"><strong>Graph Design with Python</strong></p>
+          <p class="course-description">Hands-on course covering data visualization workflows using Python. Learn how to visualize data to gain deeper insights and enhance your analysis skills.</p>
+          <p>
+          <i class="fa-solid fa-users"></i> Python developers interested in data visualization and analysis
+          </p>
+          <a href="https://schoo.jp/course/7204" class="course-link">
+            <i class="fas fa-external-link-alt"></i> Course Link
+          </a>
+        </div>
+
+    - image: aidesigner.png  # Using image from papers.bib preview
+      text: >
+        <div class="course-item">
+          <p class="course-title"><strong>Coorporate Training on AI </strong></p>
+          <p class="course-description">A hands-on course offering a broad overview of AI, designed for management-level business professionals, conducted in collaboration with the <a href="https://www.sus-g.co.jp">SUS</a> in Kyoto.</p>
+          <p>
+          <i class="fa-solid fa-users"></i> Managers without backgrounds of AI
+          </p>
+          <a href="https://ai-designer.info" class="course-link">
+            <i class="fas fa-external-link-alt"></i> Course Link
+          </a>
+        </div>
+    
 ---
-I’m a Ph.D. candidate in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), advised by [Huamin Qu](http://www.huamin.org).
+I'm a Ph.D. candidate in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology (HKUST), advised by [Huamin Qu](http://www.huamin.org). I received my Master's degree in Informatics and Bachelor's degree in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en).
 
-My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I’m particularly interested in using AR/VR as a medium for data visualization, with the goal of enabling more effective data exploration and communication. My work has been presented at leading conferences such as AAAI, CHI, ACM Multimedia, and IEEE VIS.
+My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I'm interested in using AR/VR for data visualization, enabling more effective data exploration and communication. 
+My work has been presented at conferences such as AAAI, CHI, ACM Multimedia, and IEEE VIS.
 
-Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup, building systems for demand forecasting and causal inference. I also taught data analysis through corporate training and online courses. I’m also passionate about using ICT for humanitarian purposes and actively engage in pro bono projects.
+Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup, building systems for demand forecasting and causal inference. I also taught data analysis through corporate training and online courses. I'm also passionate about using ICT for humanitarian purposes through pro bono work.
+
+
+高比良健太郎と申します。香港科技大学でデータ可視化の研究をしています。京都大学で学位を取得したのち、コンサルやスタートアップで、需要予測や因果推論のモデル構築をしていました。私の研究分野は研究と実務の距離が近いため、書籍の執筆や研修を通じて、研究成果を実務へ還元していければと考えています。
