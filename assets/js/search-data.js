@@ -114,11 +114,6 @@ ninja.data = [{
           description: "A minimalist geometric artwork exploring the beauty of simple shapes",
           section: "Artworks",handler: () => {
               window.location.href = "/artworks/square.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
             },},{id: "news-our-paper-titled-forecasting-the-movement-of-internally-displaced-people-using-artificial-intelligence-co-authored-in-collaboration-with-the-united-nations-has-been-accepted-as-a-book-chapter-for-bright-network",
           title: 'Our paper titled “Forecasting The Movement Of Internally Displaced People Using Artificial Intelligence”,...',
           description: "",
@@ -138,10 +133,13 @@ ninja.data = [{
           title: 'Our work “Echoes in the Gallery: A Collaborative Immersive Analytics System for Analyzing...',
           description: "",
           section: "News",},{id: "news-our-exhibition-ar-ricci-map-which-uses-augmented-reality-to-enhance-ricci-maps-is-now-on-display-at-the-china-in-maps-exhibition-in-the-hkust-library",
-          title: 'Our exhibition “AR Ricci Map”, which uses augmented reality to enhance Ricci maps,...',
+          title: 'Our exhibition AR Ricci Map, which uses augmented reality to enhance Ricci maps,...',
           description: "",
           section: "News",},{id: "news-our-co-authored-paper-vr-mediated-cognitive-defusion-a-comparative-study-for-managing-negative-thoughts-has-been-accepted-for-oral-presentation-top-4-at-acm-multimedia-2024-in-melbourne",
           title: 'Our co-authored paper “VR-Mediated Cognitive Defusion: A Comparative Study for Managing Negative Thoughts”...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-osaka-seikei-university-thanks-to-prof-natsukawa-for-the-invitation",
+          title: 'I gave a talk at Osaka Seikei University. Thanks to Prof. Natsukawa for...',
           description: "",
           section: "News",},{id: "news-our-co-authored-paper-of-acm-multimedia-24-received-an-honorable-mention-award-top-1",
           title: 'Our co-authored paper of ACM Multimedia 24 received an honorable mention award [top...',
