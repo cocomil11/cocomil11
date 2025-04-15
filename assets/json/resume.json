@@ -12,28 +12,32 @@
       "position": "Data Scientist",
       "startDate": "2021-04",
       "endDate": "2021-10",
-      "summary": "Conducted R&D in edge computing and causal inference techniques. Designed and implemented data pipelines and analytics frameworks for wearable IoT devices."
+      "summary": "Conducted R&D in edge computing and causal inference techniques. Designed and implemented data pipelines and analytics frameworks for wearable IoT devices.",
+      "website": "https://veldt.jp/en/"
     },
     {
-      "name": "Accenture Strategy & Consulting",
+      "name": "Accenture Digital (Now Strategy & Consulting)",
       "position": "Data Analyst",
       "startDate": "2019-08",
       "endDate": "2021-03",
-      "summary": "Developed machine learning solutions and statistical models for enterprise-level applications. Led end-to-end pipeline development including data preprocessing, model training, and deployment."
+      "summary": "Built and deployed machine learning models and statistical analyses for large enterprise clients. Led complete data science workflows from initial data processing through model development and production deployment.",
+      "website": "https://www.accenture.com/"
     },
     {
       "name": "Actavo Inc.",
       "position": "Data Analyst Trainee",
       "startDate": "2017-08",
       "endDate": "2018-03",
-      "summary": "Performed statistical modeling and data management for field operations. Traineeship supported by the EU-Japan Centre for Industrial Cooperation."
+      "summary": "Performed statistical modeling and data management for field operations. Traineeship supported by the EU-Japan Centre for Industrial Cooperation.",
+      "website": "https://www.actavo.com/"
     },
     {
       "name": "NTT Basic Research Laboratories",
       "position": "Research Intern",
       "startDate": "2016-08",
       "endDate": "2016-09",
-      "summary": "Analyzed urban sensor data as part of the Tokyo Smart City Project. Investigated infrastructure and mobility patterns using real-world datasets."
+      "summary": "Analyzed urban sensor data as part of the Tokyo Smart City Project. Investigated infrastructure and mobility patterns using real-world datasets.",
+      "website": "https://www.rd.ntt/e/cs/"
     }
   ],
   "education": [
@@ -65,7 +69,7 @@
       "institution": "KTH Royal Institute of Technology",
       "location": "Stockholm, Sweden",
       "area": "Engineering Sciences",
-      "studyType": "Economics",
+      "studyType": "Exchange Program",
       "startDate": "2014-09",
       "endDate": "2015-06"
     }
