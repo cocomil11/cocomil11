@@ -60,7 +60,7 @@ I'm a Ph.D. candidate in the Department of Computer Science and Engineering at [
 My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I'm interested in using AR/VR for data visualization, enabling more effective data exploration and communication. 
 My work has been presented at conferences such as AAAI, CHI, ACM Multimedia, and IEEE VIS.
 
-Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup, building systems for demand forecasting and causal inference. I also taught data analysis and visualization through corporate training and online courses (see below). I'm also passionate about using ICT for humanitarian purposes through pro bono work.
+Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup for four years. I also taught data analysis and visualization through corporate training and online courses (see below). I'm also passionate about using ICT for humanitarian purposes through pro bono work.
 
 
 高比良健太郎と申します。香港科技大学でデータ可視化の研究をしています。京都大学（石田亨研究室）で学位を取得したのち、コンサルやスタートアップで、需要予測や因果推論のモデル構築をしていました。私の研究分野と実務の距離が近いため、専門知識を実務へ還元していければと思っています。書籍の執筆や研修のお仕事等お受けしています。
