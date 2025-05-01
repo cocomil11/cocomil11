@@ -34,14 +34,14 @@ new_section:
       text: >
         <div class="course-item">
           <p class="course-title"><strong>Practical Graph Design</strong></p>
-          <p class="course-description">This course teaches how to choose and design effective charts through hands-on exercises. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication.</p>
+          <p class="course-description">This course teaches how to choose and design effective charts. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication.</p>
           <p><i class="fa-solid fa-users"></i>  Everyone working with data &nbsp;&nbsp;<a href="https://schoo.jp/course/7137" class="course-link"><i class="fas fa-external-link-alt"></i> Course Link</a></p>
         </div>
     - image: schoo2.png  # Using image from papers.bib preview
       text: >
         <div class="course-item">
           <p class="course-title"><strong>Graph Design with Python</strong></p>
-          <p class="course-description">Hands-on course covering data visualization workflows using Python. Learn how to visualize data to gain deeper insights and enhance your analysis skills.</p>
+          <p class="course-description">Hands-on course on data visualization using Python libraries, including matplotlib, seaborn and plotly.</p>
           <p><i class="fa-solid fa-users"></i> Enginneers interested in data visualization &nbsp;&nbsp;<a href="https://schoo.jp/course/7204" class="course-link"><i class="fas fa-external-link-alt"></i> Course Link</a></p>
         </div>
 
