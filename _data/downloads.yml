@@ -1,0 +1,57 @@
+- title: "練習問題で学ぶグラフデザイン（Schoo）"
+  description: "Excel files and datasets used in the Practical Graph Design course for hands-on practice."
+  files:
+    - name: "練習問題で学ぶグラフデザイン"
+      description: "Slides"
+      url: "/assets/files/graphdesign.pdf"
+    
+    - name: "練習問題で学ぶグラフデザイン"
+      description: "Dataset and Chart Templates"
+      url: "/assets/files/graphdesign.xlsx"
+
+- title: "Pythonを活用したグラフ作成プロセス（Schoo）"
+  description: "Datasets and example files for Python data visualization exercises."
+  files:
+    - name: "Pythonを活用したグラフ作成プロセス"
+      description: "Slides"
+      url: "/assets/files/pythongraph.pdf"
+  
+    - name: "Pythonを活用したグラフ作成プロセス (Matplotlib)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1deSsBL8YzfFWBvrtHR9MnDV9X-07E4Ij?usp=sharing"
+    
+    - name: "Pythonを活用したグラフ作成プロセス (Seaborn)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1TU82z2MfCSTQMOmw40ukJsbhbqdSn73U?usp=sharing"
+    
+    - name: "Pythonを活用したグラフ作成プロセス (Plotly)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1N6HfvQwGznazIDnKdFkr7b1FxTe1U3yO?usp=sharing"
+    
+
+- title: "データ可視化 完全入門（技術評論社）"
+  description: "Miscellaneous Excel files and templates for data analysis and visualization."
+  files:
+    - name: "Data Cleaning Checklist.xlsx"
+      description: "Comprehensive checklist for data cleaning and preparation"
+      url: "/assets/files/data_cleaning_checklist.xlsx"
+    
+    - name: "Dashboard Design Guidelines.xlsx"
+      description: "Guidelines and best practices for creating effective dashboards"
+      url: "/assets/files/dashboard_guidelines.xlsx"
+    
+    - name: "Data Visualization Best Practices"
+      description: "Google Colab notebook covering data visualization principles and examples"
+      url: "https://colab.research.google.com/drive/5mno345pqr678stu901vwx"
+    
+    - name: "Advanced Chart Techniques"
+      description: "Advanced visualization techniques using Python and interactive libraries"
+      url: "https://colab.research.google.com/drive/6pqr678stu901vwx234yza"
+
+
+- title: "AI研修の基礎"
+  description: "Miscellaneous Excel files and templates for data analysis and visualization."
+  files:
+    - name: "Advanced Chart Techniques"
+      description: "Advanced visualization techniques using Python and interactive libraries"
+      url: "https://colab.research.google.com/drive/6pqr678stu901vwx234yza"
