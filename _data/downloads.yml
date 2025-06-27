@@ -1,30 +1,30 @@
 - title: "練習問題で学ぶグラフデザイン（Schoo）"
   description: "Excel files and datasets used in the Practical Graph Design course for hands-on practice."
   files:
-    - name: "練習問題で学ぶグラフデザイン"
+    - name: "講義資料"
       description: "Slides"
       url: "/assets/files/graphdesign.pdf"
     
-    - name: "練習問題で学ぶグラフデザイン"
+    - name: "練習問題と回答"
       description: "Dataset and Chart Templates"
       url: "/assets/files/graphdesign.xlsx"
 
 - title: "Pythonを活用したグラフ作成プロセス（Schoo）"
   description: "Datasets and example files for Python data visualization exercises."
   files:
-    - name: "Pythonを活用したグラフ作成プロセス"
+    - name: "コース概要"
       description: "Slides"
       url: "/assets/files/pythongraph.pdf"
   
-    - name: "Pythonを活用したグラフ作成プロセス (Matplotlib)"
+    - name: "Hands-on Exercise (Matplotlib)"
       description: "Code"
       url: "https://colab.research.google.com/drive/1deSsBL8YzfFWBvrtHR9MnDV9X-07E4Ij?usp=sharing"
     
-    - name: "Pythonを活用したグラフ作成プロセス (Seaborn)"
+    - name: "Hands-on Exercise (Seaborn)"
       description: "Code"
       url: "https://colab.research.google.com/drive/1TU82z2MfCSTQMOmw40ukJsbhbqdSn73U?usp=sharing"
     
-    - name: "Pythonを活用したグラフ作成プロセス (Plotly)"
+    - name: "Hands-on Exercise (Plotly)"
       description: "Code"
       url: "https://colab.research.google.com/drive/1N6HfvQwGznazIDnKdFkr7b1FxTe1U3yO?usp=sharing"
     
@@ -32,26 +32,115 @@
 - title: "データ可視化 完全入門（技術評論社）"
   description: "Miscellaneous Excel files and templates for data analysis and visualization."
   files:
-    - name: "Data Cleaning Checklist.xlsx"
-      description: "Comprehensive checklist for data cleaning and preparation"
-      url: "/assets/files/data_cleaning_checklist.xlsx"
+    - name: "4-1_Case_量"
+      description: "Case study file for quantity visualization"
+      url: "/assets/files/4-1_Case_量.xlsx"
     
-    - name: "Dashboard Design Guidelines.xlsx"
-      description: "Guidelines and best practices for creating effective dashboards"
-      url: "/assets/files/dashboard_guidelines.xlsx"
+    - name: "4-2_Case_割合"
+      description: "Case study file for proportion visualization"
+      url: "/assets/files/4-2_Case_割合.xlsx"
     
-    - name: "Data Visualization Best Practices"
-      description: "Google Colab notebook covering data visualization principles and examples"
-      url: "https://colab.research.google.com/drive/5mno345pqr678stu901vwx"
+    - name: "4-3_Case_時系列"
+      description: "Case study file for time series visualization"
+      url: "/assets/files/4-3_Case_時系列.xlsx"
     
-    - name: "Advanced Chart Techniques"
-      description: "Advanced visualization techniques using Python and interactive libraries"
-      url: "https://colab.research.google.com/drive/6pqr678stu901vwx234yza"
-
-
+    - name: "4-4_Case_関係"
+      description: "Case study file for relationship visualization"
+      url: "/assets/files/4-4_Case_関係.xlsx"
+    
+    - name: "4-5_Case_ばらつき"
+      description: "Case study file for variation visualization"
+      url: "/assets/files/4-5_Case_ばらつき.xlsx"
+    
+    - name: "4-6_Case_地理"
+      description: "Case study file for geographical visualization"
+      url: "/assets/files/4-6_Case_地理.xlsx"
+    
+    - name: "4-7_Case_順位"
+      description: "Case study file for ranking visualization"
+      url: "/assets/files/4-7_Case_順位.xlsx"
+    
+    - name: "4-8_Case_表"
+      description: "Case study file for table visualization"
+      url: "/assets/files/4-8_Case_表.xlsx"
+    
+    - name: "5-1_Case_量"
+      description: "Case study file for quantity visualization (advanced)"
+      url: "/assets/files/5-1_Case_量.xlsx"
+    
+    - name: "5-2_Case_割合"
+      description: "Case study file for proportion visualization (advanced)"
+      url: "/assets/files/5-2_Case_割合.xlsx"
+    
+    - name: "5-3_Case_時系列"
+      description: "Case study file for time series visualization (advanced)"
+      url: "/assets/files/5-3_Case_時系列.xlsx"
+    
+    - name: "5-4_Case_関係"
+      description: "Case study file for relationship visualization (advanced)"
+      url: "/assets/files/5-4_Case_関係.xlsx"
+    
+    - name: "5-5_Case_ばらつき"
+      description: "Case study file for variation visualization (advanced)"
+      url: "/assets/files/5-5_Case_ばらつき.xlsx"
+    
+    - name: "4-1_ExcelTip_量"
+      description: "Excel tips for quantity visualization"
+      url: "/assets/files/4-1_ExcelTip_量.xlsx"
+    
+    - name: "4-2_ExcelTip_時系列"
+      description: "Excel tips for time series visualization"
+      url: "/assets/files/4-2_ExcelTip_時系列.xlsx"
+    
+    - name: "4-3_ExcelTip_割合"
+      description: "Excel tips for proportion visualization"
+      url: "/assets/files/4-3_ExcelTip_割合.xlsx"
+    
+    - name: "4-4_ExcelTip_関係"
+      description: "Excel tips for relationship visualization"
+      url: "/assets/files/4-4_ExcelTip_関係.xlsx"
+    
+    - name: "4-5_ExcelTip_ばらつき"
+      description: "Excel tips for variation visualization"
+      url: "/assets/files/4-5_ExcelTip_ばらつき.xlsx"
+    
+    - name: "4-6_ExcelTip_地理"
+      description: "Excel tips for geographical visualization"
+      url: "/assets/files/4-6_ExcelTip_地理.xlsx"
+    
+    - name: "4-7_ExcelTip_順位"
+      description: "Excel tips for ranking visualization"
+      url: "/assets/files/4-7_ExcelTip_順位.xlsx"
+    
+    - name: "4-8_ExcelTip_表"
+      description: "Excel tips for table visualization"
+      url: "/assets/files/4-8_ExcelTip_表.xlsx"
+    
+    - name: "5-1_ExcelTip_量"
+      description: "Excel tips for quantity visualization (advanced)"
+      url: "/assets/files/5-1_ExcelTip_量.xlsx"
+    
+    - name: "5-2_ExcelTip_時系列"
+      description: "Excel tips for time series visualization (advanced)"
+      url: "/assets/files/5-2_ExcelTip_時系列.xlsx"
+    
+    
 - title: "AI研修の基礎"
-  description: "Miscellaneous Excel files and templates for data analysis and visualization."
+  description: "AI training materials and exercises for beginners."
   files:
-    - name: "Advanced Chart Techniques"
-      description: "Advanced visualization techniques using Python and interactive libraries"
-      url: "https://colab.research.google.com/drive/6pqr678stu901vwx234yza"
+    - name: "Google Colab の使い方"
+      description: "Introduction to Google Colab usage and setup"
+      url: "https://colab.research.google.com/drive/16ATNVajjdBh4h7YOiZI6fqE7Kmjm4Yxb?usp=sharing"
+    
+    - name: "Numpy の操作"
+      description: "NumPy exercises for numerical computing"
+      url: "https://colab.research.google.com/drive/1kyfpslBWmZz444H-_rarM-zoxdPQCniU?usp=sharing"
+    
+    - name: "Pandas の操作"
+      description: "Pandas exercises for data manipulation"
+      url: "https://colab.research.google.com/drive/1JDg6hEMKhoUC_ZtsbdpVvgGCjKR1NR0e?usp=sharing"
+    
+    - name: "機械学習パイプライン"
+      description: "Machine learning pipeline exercises"
+      url: "https://colab.research.google.com/drive/1aqfy8E54pqEHBRDq2_1DY9-3hxcaMSMC?usp=sharing"
+    

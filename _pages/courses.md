@@ -3,7 +3,7 @@ layout: page
 title: courses
 permalink: /courses/
 description: A collection of resources used for my online courses and books. 
-nav: true
+nav: false
 nav_order: 5
 ---
 
