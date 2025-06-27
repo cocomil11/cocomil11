@@ -1,5 +1,4 @@
 - title: "練習問題で学ぶグラフデザイン（Schoo）"
-  description: "Excel files and datasets used in the Practical Graph Design course for hands-on practice."
   files:
     - name: "講義資料"
       description: "Slides"
@@ -10,7 +9,6 @@
       url: "/assets/files/graphdesign.xlsx"
 
 - title: "Pythonを活用したグラフ作成プロセス（Schoo）"
-  description: "Datasets and example files for Python data visualization exercises."
   files:
     - name: "コース概要"
       description: "Slides"
@@ -30,7 +28,6 @@
     
 
 - title: "データ可視化 完全入門（技術評論社）"
-  description: "Miscellaneous Excel files and templates for data analysis and visualization."
   files:
     - name: "4-1_Case_量"
       description: "Case study file for quantity visualization"
@@ -126,7 +123,6 @@
     
     
 - title: "AI研修の基礎"
-  description: "AI training materials and exercises for beginners."
   files:
     - name: "Google Colab の使い方"
       description: "Introduction to Google Colab usage and setup"

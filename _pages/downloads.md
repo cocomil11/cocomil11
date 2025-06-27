@@ -8,12 +8,25 @@ nav_order: 6
 ---
 
 <div class="downloads">
-  <!-- <div class="download-intro">
-    <h1>Downloads</h1>
-    <p>Access Excel files and resources from my courses and books. All files are free to download and use for educational purposes.</p>
-  </div> -->
-
+  <!-- Existing Download Sections -->
   <div class="download-sections">
+    <!-- Airtable Embed Section -->
+    <div class="airtable-section">
+      <h2>Useful Links for HCI/VIS Researchers</h2>
+      
+      <div class="airtable-container">
+        <!-- Replace this iframe with your actual Airtable embed code -->
+        <iframe 
+          class="airtable-embed" 
+          src="https://airtable.com/embed/appER2TA7BfFC25HQ/shruMCm0NbC8bDyDb"
+          width="100%" 
+          height="800" 
+          style="background: transparent; border: 1px solid #ccc;">
+        </iframe>
+      </div>
+      
+    </div>
+
     {%- for section in site.data.downloads -%}
     <div class="download-section">
       <h2>{{ section.title }}</h2>
@@ -69,6 +82,35 @@ nav_order: 6
   padding: 2rem 0;
 }
 
+/* Airtable Section Styles */
+.airtable-section {
+  margin-bottom: 1rem;
+  /* padding: 0.5rem 0; */
+  border-bottom: 2px solid var(--global-border-color);
+}
+
+.airtable-section h2 {
+  color: var(--global-theme-color);
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  text-align: left;
+}
+
+.airtable-container {
+  background: var(--global-bg-color);
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.airtable-embed {
+  border-radius: 8px;
+  border: none !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Existing Styles */
 .download-intro {
   text-align: center;
   margin-bottom: 3rem;
@@ -89,19 +131,21 @@ nav_order: 6
 .download-sections {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 1.5rem;
 }
 
 .download-section h2 {
   color: var(--global-theme-color);
   margin-bottom: 1rem;
   font-size: 1.8rem;
+  text-align: left;
 }
 
 .section-description {
   color: var(--global-text-color-light);
   margin-bottom: 2rem;
   font-size: 1.1rem;
+  text-align: center;
 }
 
 .download-grid {
@@ -194,6 +238,10 @@ nav_order: 6
   .download-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+  
+  .airtable-embed {
+    height: 400px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -224,6 +272,10 @@ nav_order: 6
   .download-actions {
     flex-direction: row;
     justify-content: flex-start;
+  }
+  
+  .airtable-embed {
+    height: 300px;
   }
 }
 </style> 
