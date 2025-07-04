@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our co-authored paper of ACM Multimedia 24 received an honorable mention award [top 1%].
+Our co-authored paper of ACM Multimedia 24 received an **Honorable Mention Award** [top 1%].
