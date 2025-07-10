@@ -28,14 +28,14 @@ announcements:
 
 new_section:
   enabled: true
-  title: "books and courses"  # Title for the section
+  title: "books and courses<span style='color:rgb(87, 87, 87);'>*</span>"  # Title for the section
   pairs:
-    - image: schoo1.png  # Using image from papers.bib preview
+    - image: bookcover.png  # Using image from papers.bib preview
       text: >
         <div class="course-item">
           <p class="course-title"><strong>Data Visualization in Practice（データ可視化完全入門）</strong></p>
-          <p class="course-description">This course teaches how to choose and design effective charts. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication.</p>
-          <p><i class="fa-solid fa-users"></i>  Everyone working with data &nbsp;&nbsp;<a href="https://www.amazon.co.jp/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%AF%E8%A6%96%E5%8C%96-%E5%AE%8C%E5%85%A8%E5%85%A5%E9%96%80-%EF%BD%9E%E3%81%99%E3%81%90%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%A6%E3%81%9A%E3%81%A3%E3%81%A8%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%82%B0%E3%83%A9%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E9%AB%98%E6%AF%94%E8%89%AF-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4297149680" class="course-link"><i class="fas fa-external-link-alt"></i> Course Link</a></p>
+          <p class="course-description">An introduction to data visualization that explains key principles and techniques for designing effective charts based on real-world business challenges. It helps readers learn how to choose and create visualizations for different types of data and tasks, with hands-on workflows using Excel.</p>
+          <p><i class="fa-solid fa-users"></i>  Everyone working with data &nbsp;&nbsp;<a href="https://www.amazon.co.jp/%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%AF%E8%A6%96%E5%8C%96-%E5%AE%8C%E5%85%A8%E5%85%A5%E9%96%80-%EF%BD%9E%E3%81%99%E3%81%90%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%A6%E3%81%9A%E3%81%A3%E3%81%A8%E5%BD%B9%E7%AB%8B%E3%81%A4%E3%82%B0%E3%83%A9%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E9%AB%98%E6%AF%94%E8%89%AF-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4297149680" class="course-link"><i class="fas fa-external-link-alt"></i> Book Link (Amazon) </a></p>
         </div>
     - image: schoo1.png  # Using image from papers.bib preview
       text: >
@@ -61,13 +61,17 @@ new_section:
           </a>
         </div>
 
+  annotation: >
+    <div class="section-annotation">
+      <p><small><em>* Book and Courses are in Japanese.</em></small></p>
+    </div>
 
     
 ---
 I'm a Ph.D. candidate in the Department of Computer Science and Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), advised by [Huamin Qu](http://www.huamin.org). I received my Master's degree in Informatics and Bachelor's degree in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
 
 My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I'm interested in using AR/VR for data visualization, enabling more effective data exploration and communication. 
-My work has been presented at conferences such as AAAI, CHI, ACM Multimedia, and IEEE VIS.
+My work has been presented at conferences such as CHI, UIST, MM, VIS, and AAAI.
 
 Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup for four years. I also taught data analysis and visualization through corporate training and online courses (see below). I'm also passionate about using ICT for humanitarian purposes through pro bono work.
 

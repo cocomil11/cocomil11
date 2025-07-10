@@ -10,4 +10,12 @@
       </div>
     </div>
   {% endfor %}
+  
+  {% if page.new_section.annotation %}
+    <div class="row">
+      <div class="col-12">
+        {{ page.new_section.annotation }}
+      </div>
+    </div>
+  {% endif %}
 </div> 
