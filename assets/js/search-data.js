@@ -23,19 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/artworks/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A collection of projects spanning ICT for humanitarian efforts and artistic work.",
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Excel files, PDFs, and Google Colab notebooks for my courses and books.講座や本で用いた Excel File や Slide、Python Codeなど。",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resources/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -136,16 +129,22 @@ ninja.data = [{
           title: 'Our exhibition AR Ricci Map, which uses augmented reality to enhance Ricci maps,...',
           description: "",
           section: "News",},{id: "news-our-co-authored-paper-vr-mediated-cognitive-defusion-a-comparative-study-for-managing-negative-thoughts-has-been-accepted-for-oral-presentation-top-4-at-acm-multimedia-2024-in-melbourne",
-          title: 'Our co-authored paper “VR-Mediated Cognitive Defusion: A Comparative Study for Managing Negative Thoughts”...',
+          title: 'Our co-authored paper VR-Mediated Cognitive Defusion: A Comparative Study for Managing Negative Thoughts...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-at-osaka-seikei-university-thanks-to-prof-natsukawa-for-the-invitation",
           title: 'I gave a talk at Osaka Seikei University. Thanks to Prof. Natsukawa for...',
           description: "",
           section: "News",},{id: "news-our-co-authored-paper-of-acm-multimedia-24-received-an-honorable-mention-award-top-1",
-          title: 'Our co-authored paper of ACM Multimedia 24 received an honorable mention award [top...',
+          title: 'Our co-authored paper of ACM Multimedia 24 received an Honorable Mention Award [top...',
           description: "",
           section: "News",},{id: "news-my-first-author-paper-tangiblenet-synchronous-network-data-storytelling-through-tangible-interactions-in-augmented-reality-has-been-accepted-for-presentation-at-chi-2025-in-yokohama-acceptance-rate-24",
-          title: 'My first-author paper “TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions in Augmented...',
+          title: 'My first-author paper TangibleNet: Synchronous Network Data Storytelling through Tangible Interactions in Augmented...',
+          description: "",
+          section: "News",},{id: "news-my-first-author-paper-insitutale-enhancing-augmented-data-storytelling-with-physical-objects-has-been-conditionally-accepted-for-presentation-at-uist-2025-in-busan-south-korea-acceptance-rate-22",
+          title: 'My first-author paper InSituTale: Enhancing Augmented Data Storytelling with Physical Objects has been...',
+          description: "",
+          section: "News",},{id: "news-data-visualization-in-practice-データ可視化完全入門-has-been-published-by-gijutsu-hyoron-co-ltd-技術評論社-this-comprehensive-guide-covers-the-fundamental-principles-and-practical-techniques-of-effective-data-visualization-with-a-focus-on-real-world-business-applications",
+          title: 'Data Visualization in Practice (データ可視化完全入門) has been published by Gijutsu-Hyoron Co., Ltd (技術評論社)....',
           description: "",
           section: "News",},{id: "projects-ai-for-humanitarian-planning",
           title: 'AI for Humanitarian Planning',
