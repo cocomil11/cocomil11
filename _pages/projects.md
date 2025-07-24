@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of projects spanning ICT for humanitarian efforts and artistic work.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [DataVisualization, GenerativeArt]
 ---

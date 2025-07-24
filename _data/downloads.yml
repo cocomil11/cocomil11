@@ -29,98 +29,13 @@
 
 - title: "データ可視化 完全入門（技術評論社）"
   files:
-    - name: "4-1_Case_量"
+    - name: "ケーススタディ"
       description: "Case study file for quantity visualization"
-      url: "/assets/files/4-1_Case_量.xlsx"
+      url: "/assets/files/CASE.zip"
     
-    - name: "4-2_Case_割合"
+    - name: "Excel Tips"
       description: "Case study file for proportion visualization"
-      url: "/assets/files/4-2_Case_割合.xlsx"
-    
-    - name: "4-3_Case_時系列"
-      description: "Case study file for time series visualization"
-      url: "/assets/files/4-3_Case_時系列.xlsx"
-    
-    - name: "4-4_Case_関係"
-      description: "Case study file for relationship visualization"
-      url: "/assets/files/4-4_Case_関係.xlsx"
-    
-    - name: "4-5_Case_ばらつき"
-      description: "Case study file for variation visualization"
-      url: "/assets/files/4-5_Case_ばらつき.xlsx"
-    
-    - name: "4-6_Case_地理"
-      description: "Case study file for geographical visualization"
-      url: "/assets/files/4-6_Case_地理.xlsx"
-    
-    - name: "4-7_Case_順位"
-      description: "Case study file for ranking visualization"
-      url: "/assets/files/4-7_Case_順位.xlsx"
-    
-    - name: "4-8_Case_表"
-      description: "Case study file for table visualization"
-      url: "/assets/files/4-8_Case_表.xlsx"
-    
-    - name: "5-1_Case_量"
-      description: "Case study file for quantity visualization (advanced)"
-      url: "/assets/files/5-1_Case_量.xlsx"
-    
-    - name: "5-2_Case_割合"
-      description: "Case study file for proportion visualization (advanced)"
-      url: "/assets/files/5-2_Case_割合.xlsx"
-    
-    - name: "5-3_Case_時系列"
-      description: "Case study file for time series visualization (advanced)"
-      url: "/assets/files/5-3_Case_時系列.xlsx"
-    
-    - name: "5-4_Case_関係"
-      description: "Case study file for relationship visualization (advanced)"
-      url: "/assets/files/5-4_Case_関係.xlsx"
-    
-    - name: "5-5_Case_ばらつき"
-      description: "Case study file for variation visualization (advanced)"
-      url: "/assets/files/5-5_Case_ばらつき.xlsx"
-    
-    - name: "4-1_ExcelTip_量"
-      description: "Excel tips for quantity visualization"
-      url: "/assets/files/4-1_ExcelTip_量.xlsx"
-    
-    - name: "4-2_ExcelTip_時系列"
-      description: "Excel tips for time series visualization"
-      url: "/assets/files/4-2_ExcelTip_時系列.xlsx"
-    
-    - name: "4-3_ExcelTip_割合"
-      description: "Excel tips for proportion visualization"
-      url: "/assets/files/4-3_ExcelTip_割合.xlsx"
-    
-    - name: "4-4_ExcelTip_関係"
-      description: "Excel tips for relationship visualization"
-      url: "/assets/files/4-4_ExcelTip_関係.xlsx"
-    
-    - name: "4-5_ExcelTip_ばらつき"
-      description: "Excel tips for variation visualization"
-      url: "/assets/files/4-5_ExcelTip_ばらつき.xlsx"
-    
-    - name: "4-6_ExcelTip_地理"
-      description: "Excel tips for geographical visualization"
-      url: "/assets/files/4-6_ExcelTip_地理.xlsx"
-    
-    - name: "4-7_ExcelTip_順位"
-      description: "Excel tips for ranking visualization"
-      url: "/assets/files/4-7_ExcelTip_順位.xlsx"
-    
-    - name: "4-8_ExcelTip_表"
-      description: "Excel tips for table visualization"
-      url: "/assets/files/4-8_ExcelTip_表.xlsx"
-    
-    - name: "5-1_ExcelTip_量"
-      description: "Excel tips for quantity visualization (advanced)"
-      url: "/assets/files/5-1_ExcelTip_量.xlsx"
-    
-    - name: "5-2_ExcelTip_時系列"
-      description: "Excel tips for time series visualization (advanced)"
-      url: "/assets/files/5-2_ExcelTip_時系列.xlsx"
-    
+      url: "/assets/files/ExcelTips.zip"
     
 - title: "AI研修の基礎"
   files:

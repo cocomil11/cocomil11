@@ -2,7 +2,7 @@
 layout: page
 title: resources
 permalink: /resources/
-description: Access Excel files, PDFs, and Google Colab notebooks from my courses and books.
+description: Excel files, PDFs, and Google Colab notebooks for my courses and books.<br>講座や本で用いた Excel File や Slide、Python Codeなど。
 nav: true
 nav_order: 6
 ---
@@ -11,21 +11,19 @@ nav_order: 6
   <!-- Existing Download Sections -->
   <div class="download-sections">
     <!-- Airtable Embed Section -->
-    <div class="airtable-section">
-      <h2>Useful Links for HCI/VIS Researchers</h2>
-      
-      <div class="airtable-container">
+    <!-- <div class="airtable-section"> -->
+      <!-- <h2>Useful Links for HCI/VIS Researchers</h2> -->
+      <!-- <div class="airtable-container"> -->
         <!-- Replace this iframe with your actual Airtable embed code -->
-        <iframe 
+        <!-- <iframe 
           class="airtable-embed" 
           src="https://airtable.com/embed/appER2TA7BfFC25HQ/shruMCm0NbC8bDyDb"
           width="100%" 
           height="800" 
           style="background: transparent; border: 1px solid #ccc;">
-        </iframe>
-      </div>
-      
-    </div>
+        </iframe> -->
+      <!-- </div> -->
+    <!-- </div> -->
 
     {%- for section in site.data.downloads -%}
     <div class="download-section">

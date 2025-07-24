@@ -1,19 +1,19 @@
 - title: "Practical Graph Design"
-  description: "This course teaches how to choose and design effective charts. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication."
+  description: "This course teaches how to choose and design effective charts. We discuss and evaluate whether their visualizations are appropriate and how to improve them for clearer communication.<br>様々なデータやタスクごとに、効果的なグラフのデザイン方法を解説した講座です。"
   link: "https://schoo.jp/course/7137"
   image: "schoo1.png"
   audience: "Everyone working with data"
   tags: ["Data Visualization", "Design", "Communication"]
 
 - title: "Graph Design with Python"
-  description: "Hands-on course on data visualization using Python libraries, including matplotlib, seaborn and plotly."
+  description: "Hands-on course on data visualization using Python libraries, including matplotlib, seaborn and plotly.<br>matplotlib、seaborn、plotlyなどのPythonライブラリを使用したデータ可視化の講座です。"
   link: "https://schoo.jp/course/7204"
   image: "schoo2.png"
   audience: "Engineers interested in data visualization"
   tags: ["Python", "Data Visualization", "Programming"]
 
 - title: "Corporate Training on AI"
-  description: "A hands-on course offering a broad overview of AI, designed for management-level business professionals, conducted in collaboration with the SUS in Kyoto."
+  description: "A hands-on course offering a broad overview of AI, designed for management-level business professionals, conducted in collaboration with the SUS in Kyoto.<br>京都のSUSと共同で実施した、管理職レベルを対象としたAIの包括的な概要を提供する講座です。"
   link: "https://ai-designer.info"
   image: "aidesigner.png"
   audience: "Managers without backgrounds of AI"
