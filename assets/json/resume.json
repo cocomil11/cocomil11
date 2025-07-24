@@ -4,15 +4,15 @@
       "name": "Freelance",
       "position": "Data Analyst",
       "startDate": "2021-11",
-      "endDate": "2022-08",
-      "summary": "Analyzed client data in the retail and manufacturing sectors. Delivered corporate training sessions and lectures on data analysis and visualization."
+      "endDate": "",
+      "summary": "Analyzed client data, and managed data analysis and visualization projects. Delivered corporate training sessions and lectures."
     },
     {
       "name": "Veldt Inc.",
       "position": "Data Scientist",
       "startDate": "2021-04",
       "endDate": "2021-10",
-      "summary": "Conducted R&D in edge computing and causal inference techniques. Designed and implemented data pipelines and analytics frameworks for wearable IoT devices.",
+      "summary": "Conducted R&D in edge computing and causal inference techniques. Designed data pipelines and analytics frameworks for wearable devices.",
       "website": "https://veldt.jp/en/"
     },
     {

@@ -1,0 +1,57 @@
+- title: "練習問題で学ぶグラフデザイン（Schoo）"
+  files:
+    - name: "講義資料"
+      description: "Slides"
+      url: "/assets/files/graphdesign.pdf"
+    
+    - name: "練習問題と回答"
+      description: "Dataset and Chart Templates"
+      url: "/assets/files/graphdesign.xlsx"
+
+- title: "Pythonを活用したグラフ作成プロセス（Schoo）"
+  files:
+    - name: "コース概要"
+      description: "Slides"
+      url: "/assets/files/pythongraph.pdf"
+  
+    - name: "Hands-on Exercise (Matplotlib)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1deSsBL8YzfFWBvrtHR9MnDV9X-07E4Ij?usp=sharing"
+    
+    - name: "Hands-on Exercise (Seaborn)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1TU82z2MfCSTQMOmw40ukJsbhbqdSn73U?usp=sharing"
+    
+    - name: "Hands-on Exercise (Plotly)"
+      description: "Code"
+      url: "https://colab.research.google.com/drive/1N6HfvQwGznazIDnKdFkr7b1FxTe1U3yO?usp=sharing"
+    
+
+- title: "データ可視化 完全入門（技術評論社）"
+  files:
+    - name: "ケーススタディ"
+      description: "Case study file for quantity visualization"
+      url: "/assets/files/CASE.zip"
+    
+    - name: "Excel Tips"
+      description: "Case study file for proportion visualization"
+      url: "/assets/files/ExcelTips.zip"
+    
+- title: "AI研修の基礎"
+  files:
+    - name: "Google Colab の使い方"
+      description: "Introduction to Google Colab usage and setup"
+      url: "https://colab.research.google.com/drive/16ATNVajjdBh4h7YOiZI6fqE7Kmjm4Yxb?usp=sharing"
+    
+    - name: "Numpy の操作"
+      description: "NumPy exercises for numerical computing"
+      url: "https://colab.research.google.com/drive/1kyfpslBWmZz444H-_rarM-zoxdPQCniU?usp=sharing"
+    
+    - name: "Pandas の操作"
+      description: "Pandas exercises for data manipulation"
+      url: "https://colab.research.google.com/drive/1JDg6hEMKhoUC_ZtsbdpVvgGCjKR1NR0e?usp=sharing"
+    
+    - name: "機械学習パイプライン"
+      description: "Machine learning pipeline exercises"
+      url: "https://colab.research.google.com/drive/1aqfy8E54pqEHBRDq2_1DY9-3hxcaMSMC?usp=sharing"
+    
