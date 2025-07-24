@@ -41,14 +41,14 @@ new_section:
       text: >
         <div class="course-item">
           <p class="course-title"><strong>Course: Practical Graph Design<br> Schoo「練習問題で学ぶデータ可視化」</strong></p>
-          <p class="course-description">This course teaches how to choose and design effective charts for various types of data and tasks. <br>様々なデータやタスクごとに、効果的なグラフのデザイン方法を解説した講座です。Resourses section で Excel ファイル をダウンロードできます。</p>
+          <p class="course-description">This course teaches how to choose and design effective charts for various types of data and tasks. <br>様々なデータやタスクごとに、効果的なグラフのデザイン方法を解説した講座です。resources ページで Excel ファイル をダウンロードできます。</p>
           <p><i class="fa-solid fa-users"></i>  Everyone working with data &nbsp;&nbsp;<a href="https://schoo.jp/course/7137" class="course-link"><i class="fas fa-external-link-alt"></i> Course Link</a></p>
         </div>
     - image: schoo2.png  # Using image from papers.bib preview
       text: >
         <div class="course-item">
           <p class="course-title"><strong>Course: Graph Design with Python<br>Schoo「Pythonを活用したグラフ作成プロセス」</strong></p>
-          <p class="course-description">Hands-on course on data visualization using Python libraries, including matplotlib, seaborn and plotly. <br>matplotlib、seaborn、plotlyなどのPythonライブラリを用いたデータの可視化方法を解説しています。Resourses section で notebook をダウンロードできます。</p>
+          <p class="course-description">Hands-on course on data visualization using Python libraries, including matplotlib, seaborn and plotly. <br>matplotlib、seaborn、plotlyなどのPythonライブラリを用いたデータの可視化方法を解説しています。resources ページで notebook をダウンロードできます。</p>
           <p><i class="fa-solid fa-users"></i> Enginneers interested in data visualization &nbsp;&nbsp;<a href="https://schoo.jp/course/7204" class="course-link"><i class="fas fa-external-link-alt"></i> Course Link</a></p>
         </div>
 
