@@ -30,29 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "artworks-ambient-mix",
+        },{id: "artworks-ambient-mix",
           title: 'Ambient Mix',
           description: "A blend of ambient elements creating a harmonious composition",
           section: "Artworks",handler: () => {
@@ -145,6 +123,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-data-visualization-in-practice-データ可視化完全入門-has-been-published-by-gijutsu-hyoron-co-ltd-技術評論社-this-comprehensive-guide-covers-the-fundamental-principles-and-practical-techniques-of-effective-data-visualization-with-a-focus-on-real-world-business-applications",
           title: 'Data Visualization in Practice (データ可視化完全入門) has been published by Gijutsu-Hyoron Co., Ltd (技術評論社)....',
+          description: "",
+          section: "News",},{id: "news-my-first-author-workshop-paper-visaider-ai-assisted-context-aware-visualization-support-for-data-presentations-has-been-conditionally-accepted-for-presentation-at-ieee-vis-2025-in-vienna-austria",
+          title: 'My first-author workshop paper VisAider: AI-Assisted Context-Aware Visualization Support for Data Presentations has...',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-at-uist-2025-in-busan-on-insitutale-enhancing-augmented-data-storytelling-with-physical-objects",
+          title: 'I gave a talk at UIST 2025 in Busan on InSituTale: Enhancing Augmented...',
+          description: "",
+          section: "News",},{id: "news-i-presented-visaider-ai-assisted-context-aware-visualization-support-for-data-presentations-and-invited-to-participate-in-a-panel-discussion-at-vis-2025-in-vienna",
+          title: 'I presented VisAider: AI-Assisted Context-Aware Visualization Support for Data Presentations and invited to...',
           description: "",
           section: "News",},{id: "projects-ai-for-humanitarian-planning",
           title: 'AI for Humanitarian Planning',
