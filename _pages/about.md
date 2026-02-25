@@ -68,7 +68,7 @@ new_section:
 
     
 ---
-**I recently published a book on data visualization! <a href="https://amzn.asia/d/12WfjwJ" target="_blank"> <i class="fas fa-external-link-alt"></i> amazon </a>**<br>
+**I published a book on data visualization! <a href="https://amzn.asia/d/12WfjwJ" target="_blank"> <i class="fas fa-external-link-alt"></i> amazon </a>**<br>
 データ可視化完全入門（技術評論社）を出版しました。
 
 I'm a Ph.D. candidate in the Department of Computer Science and Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), advised by [Huamin Qu](http://www.huamin.org). I received my Master's degree in Informatics and Bachelor's degree in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
