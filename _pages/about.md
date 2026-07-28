@@ -9,8 +9,11 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Science Frontier Building #502</p>
-    <p>Yoshida-Tachibana, Sakyo-ku, Kyoto 606-8303, Japan</p>
+    <p>Science Frontier Bldg. 502</p>
+    <p>Yoshida Campus, Kyoto Univ.</p>
+    <p>先端科学研究棟502</p>
+    <p>吉田キャンパス医学部構内</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
@@ -71,12 +74,13 @@ new_section:
 データ可視化完全入門（技術評論社）を出版しました。
 
 I'm an Assistant Professor in the [Department of Social Informatics](https://www.soc.i.kyoto-u.ac.jp/en/index.html), [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en).
-I co-organize the Inclusive Design Lab with [Naomi Yamashita](https://naomi-yamashita.net/cv/).
-I received my Ph.D. in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), where I was advised by [Huamin Qu](http://www.huamin.org). I also hold an M.S. in Informatics and a B.A. in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
+I co-organize [Inclusive Design Lab](https://hci.soc.i.kyoto-u.ac.jp) with [Naomi Yamashita](https://naomi-yamashita.net/cv/).
+I received my Ph.D. in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), where I was advised by [Huamin Qu](http://www.huamin.org).
+<!-- I also hold an M.S. in Informatics and a B.A. in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en). -->
 
 My research lies at the intersection of data visualization, virtual and augmented reality (VR/AR), and human-AI interaction. I'm particularly interested in how AR and VR can make the exploration and communication of data more effective. My work has appeared at venues such as CHI, UIST, MM, VIS, and AAAI.
 
-Before my Ph.D., I spent four years in Tokyo as a data scientist at a consulting firm and a startup, and taught data analysis and visualization through corporate training programs and online courses (see below). I also do pro bono work applying ICT to humanitarian causes.
+Before my Ph.D., I spent years in Tokyo as a data scientist at a consulting firm and a startup, and taught data analysis and visualization through corporate training and online courses. I also do pro bono work applying ICT to humanitarian causes.
 
 
-高比良健太郎（たかひら けんたろう）と申します。京都大学大学院情報学研究科 社会情報学専攻 共生デザイン分野に所属しています。データ可視化を軸に、新しいユーザインタフェースのデザインや、AIとの対話に関する研究に取り組んでいます。香港科技大学（HKUST）にて博士号（計算機科学工学）を取得し、それ以前は、コンサルやスタートアップでデータ解析やモデル構築の業務に従事していました。学部と修士は京都大学に属しておりました。研究と実務の距離が近い領域であるため、そこで得た知見を実務の現場にも還元していきたいと考えています。書籍の執筆や研修などのご依頼も承っております。
+高比良健太郎と申します。京都大学大学院情報学研究科 社会情報学専攻 共生デザイン分野に所属しています。データ可視化を軸に、新しいユーザインタフェースのデザインや、AIとの対話に関する研究に取り組んでいます。香港科技大学（HKUST）にて博士号（計算機科学工学）を取得し、それ以前は、コンサルやスタートアップでデータ解析やモデル構築の業務に従事していました。学部と修士は京都大学で学びました。研究と実務の距離が近い領域であるため、そこで得た知見を実務の現場にも還元していきたいと考えています。書籍の執筆や研修などのご依頼も承っております。
