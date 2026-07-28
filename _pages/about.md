@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://hkust.edu.hk'>Hong Kong University of Science and Technology</a>, ktakahira@connect.ust.hk
+subtitle: <a href='https://www.kyoto-u.ac.jp/en'>Kyoto University</a>, ktakahira@connect.ust.hk
 
 profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>UC 101, Lo Ka Chung University Center</p>
-    <p>HKUST, Clear Water Bay</p>
-    <p>Kowloon, Hong Kong</p>
+    <p>Science Frontier Building #502</p>
+    <p>Yoshida-Tachibana, Sakyo-ku, Kyoto 606-8303, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
@@ -71,12 +70,11 @@ new_section:
 **I published a book on data visualization! <a href="https://amzn.asia/d/12WfjwJ" target="_blank"> <i class="fas fa-external-link-alt"></i> amazon </a>**<br>
 データ可視化完全入門（技術評論社）を出版しました。
 
-I'm a Ph.D. candidate in the Department of Computer Science and Engineering at [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), advised by [Huamin Qu](http://www.huamin.org). I received my Master's degree in Informatics and Bachelor's degree in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
+I'm an Assistant Professor in the [Department of Social Informatics](https://www.soc.i.kyoto-u.ac.jp/en/index.html), [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en). I received my Ph.D. in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), where I was advised by [Huamin Qu](http://www.huamin.org). I also hold an M.S. in Informatics and a B.A. in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
 
-My research lies at the intersection of Data Visualization, Virtual and Augmented Reality (VR/AR), and Human-Computer Interaction. I'm interested in using AR/VR for data visualization, enabling more effective data exploration and communication. 
-My work has been presented at conferences such as CHI, UIST, MM, VIS, and AAAI.
+My research lies at the intersection of data visualization, virtual and augmented reality (VR/AR), and human-AI interaction. I'm particularly interested in how AR and VR can make the exploration and communication of data more effective. My work has appeared at venues such as CHI, UIST, MM, VIS, and AAAI.
 
-Before my Ph.D., I worked in Tokyo as a data scientist at a consulting firm and a startup for four years. I also taught data analysis and visualization through corporate training and online courses (see below). I'm also passionate about using ICT for humanitarian purposes through pro bono work.
+Before my Ph.D., I spent four years in Tokyo as a data scientist at a consulting firm and a startup, and taught data analysis and visualization through corporate training programs and online courses (see below). I also do pro bono work applying ICT to humanitarian causes.
 
 
-高比良健太郎と申します。香港科技大学でデータ可視化の研究をしています。京都大学（石田亨研究室）で学位を取得したのち、コンサルやスタートアップでデータ解析やモデル構築の仕事をしていました。研究分野と実務の距離が近いため、専門知識を還元していければと思っています。書籍の執筆や研修のお仕事等をお受けしています。
+高比良健太郎（たかひら けんたろう）と申します。京都大学大学院情報学研究科 社会情報学専攻 共生デザイン分野に所属しています。データ可視化を軸に、新しいユーザインタフェースのデザインや、AIとの対話に関する研究に取り組んでいます。香港科技大学（HKUST）にて博士号（計算機科学工学）を取得し、それ以前は、コンサルやスタートアップでデータ解析やモデル構築の業務に従事していました。学部と修士は京都大学に属しておりました。研究と実務の距離が近い領域であるため、そこで得た知見を実務の現場にも還元していきたいと考えています。書籍の執筆や研修などのご依頼も承っております。

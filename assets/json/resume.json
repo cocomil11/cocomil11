@@ -1,6 +1,14 @@
 {
   "work": [
     {
+      "name": "Kyoto University",
+      "position": "Assistant Professor",
+      "startDate": "2026-08",
+      "endDate": "",
+      "summary": "Assistant Professor conducting research on data visualization, immersive analytics, and human-computer interaction.",
+      "website": "https://www.kyoto-u.ac.jp/en"
+    },
+    {
       "name": "Freelance",
       "position": "Data Analyst",
       "startDate": "2021-11",
@@ -47,7 +55,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2022-09",
-      "endDate": ""
+      "endDate": "2026-07"
     },
     {
       "institution": "Kyoto University",
@@ -105,7 +113,7 @@
       "name": "Professor Huamin Qu",
       "icon": "fa-solid fa-chart-line",
       "url": "http://www.huamin.org/index.htm",
-      "reference": "Advisor during my Ph.D. at HKUST. We are currently working on ongoing research projects and have submitted papers to leading conferences in data visualization."
+      "reference": "Ph.D. advisor at HKUST. We collaborated on research in data visualization and immersive analytics."
     }
   ]
 }
