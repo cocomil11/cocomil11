@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kyoto-u.ac.jp/en'>Kyoto University</a>, ktakahira@connect.ust.hk
+subtitle: <a href='https://www.i.kyoto-u.ac.jp/en/'>School of Informatics</a>, <a href='https://www.kyoto-u.ac.jp/en'>Kyoto University</a>, ktakahira@connect.ust.hk
 
 profile:
   align: right
@@ -70,7 +70,8 @@ new_section:
 **I published a book on data visualization! <a href="https://amzn.asia/d/12WfjwJ" target="_blank"> <i class="fas fa-external-link-alt"></i> amazon </a>**<br>
 データ可視化完全入門（技術評論社）を出版しました。
 
-I'm an Assistant Professor in the [Department of Social Informatics](https://www.soc.i.kyoto-u.ac.jp/en/index.html), [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en). I received my Ph.D. in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), where I was advised by [Huamin Qu](http://www.huamin.org). I also hold an M.S. in Informatics and a B.A. in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
+I'm an Assistant Professor in the [Department of Social Informatics](https://www.soc.i.kyoto-u.ac.jp/en/index.html), [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en), where I co-organize the Inclusive Design Lab with [Naomi Yamashita](https://naomi-yamashita.net/cv/).
+I received my Ph.D. in Computer Science and Engineering from the [Hong Kong University of Science and Technology](https://hkust.edu.hk) (HKUST), where I was advised by [Huamin Qu](http://www.huamin.org). I also hold an M.S. in Informatics and a B.A. in Economics from [Kyoto University](https://www.kyoto-u.ac.jp/en), where I worked with [Toru Ishida](https://oldtextbook.com) and [Shigeo Matsubara](https://scholar.google.com/citations?user=efzF5rcAAAAJ&hl=en).
 
 My research lies at the intersection of data visualization, virtual and augmented reality (VR/AR), and human-AI interaction. I'm particularly interested in how AR and VR can make the exploration and communication of data more effective. My work has appeared at venues such as CHI, UIST, MM, VIS, and AAAI.
 

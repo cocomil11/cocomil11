@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined [Kyoto University](https://www.kyoto-u.ac.jp/en) as an Assistant Professor.
+I joined [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/), [Kyoto University](https://www.kyoto-u.ac.jp/en) as an Assistant Professor.
