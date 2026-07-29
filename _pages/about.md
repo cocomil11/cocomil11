@@ -83,4 +83,4 @@ My research lies at the intersection of data visualization, virtual and augmente
 Before my Ph.D., I spent years in Tokyo as a data scientist at a consulting firm and a startup, and taught data analysis and visualization through corporate training and online courses. I also do pro bono work applying ICT to humanitarian causes.
 
 
-高比良健太郎と申します。京都大学大学院情報学研究科 社会情報学専攻 共生デザイン分野に所属しています。データ可視化を軸に、新しいユーザインタフェースのデザインや、AIとの対話に関する研究に取り組んでいます。香港科技大学（HKUST）にて博士号（計算機科学工学）を取得し、それ以前は、コンサルやスタートアップでデータ解析やモデル構築の業務に従事していました。学部と修士は京都大学で学びました。研究と実務の距離が近い領域であるため、そこで得た知見を実務の現場にも還元していきたいと考えています。書籍の執筆や研修などのご依頼も承っております。
+高比良健太郎と申します。京都大学大学院情報学研究科 社会情報学専攻 共生デザイン分野に所属しています。データ可視化を軸に、新しいユーザインタフェースのデザインや、AIとの対話に関する研究に取り組んでいます。香港科技大学（HKUST）にて博士号を取得し、それ以前は、コンサルやスタートアップでデータ解析やモデル構築の業務に従事していました。学部と修士は京都大学で学びました。研究と実務の距離が近い領域であるため、そこで得た知見を実務の現場にも還元していきたいと考えています。書籍の執筆や研修などのご依頼も承っております。
