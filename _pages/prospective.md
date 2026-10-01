@@ -138,9 +138,9 @@ What I expect in return is straightforward: come to meetings prepared, tell me e
 
 <h2 id="contact">How to contact me <span class="ps-jp">連絡方法</span></h2>
 
-Please email me at **ktakahira \[at\] connect.ust.hk**. I read every message from a prospective student, but I receive many generic ones, so a specific email is far more likely to get a substantive reply. A useful message includes:
+Please email me at **takahira.kentaro.3r \[at\] kyoto-u.ac.jp**. I read every message from a prospective student, but I receive many generic ones, so a specific email is far more likely to get a substantive reply. A useful message includes:
 
-メールは **ktakahira \[at\] connect.ust.hk** までお送りください。いただいたメールにはすべて目を通していますが、定型文のような内容には返信が難しいことがあります。以下を含めていただけると助かります。
+メールは **takahira.kentaro.3r \[at\] kyoto-u.ac.jp** までお送りください。いただいたメールにはすべて目を通していますが、定型文のような内容には返信が難しいことがあります。以下を含めていただけると助かります。
 
 <div class="ps-template" markdown="1">
 **Subject / 件名:** `Prospective student — [Master's / PhD / undergrad / research student], [your name]`
