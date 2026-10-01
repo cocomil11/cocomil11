@@ -8,7 +8,7 @@ middle_name:
 last_name: Takahira
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Kentaro Takahira (高比良健太郎) - Kyoto University
+  Kentaro Takahira (高比良健太郎) is an Assistant Professor at Kyoto University. His research is on data visualization, immersive analytics, VR/AR, and human-AI interaction.
 keywords: Kentaro Takahira, Kyoto University, Data Visualization, 高比良健太郎, データ可視化 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

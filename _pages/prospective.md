@@ -3,8 +3,9 @@ layout: page
 title: prospective students
 permalink: /prospective/
 description: For students who are thinking about joining my group at Kyoto University.<br>研究室配属・大学院進学・共同研究を考えている方へ。
-nav: true
+nav: false
 nav_order: 2
+published: false
 ---
 
 <div class="ps-page" markdown="1">

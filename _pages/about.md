@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+description: Kentaro Takahira (高比良健太郎) is an Assistant Professor at Kyoto University. His research is on data visualization, immersive analytics, VR/AR, and human-AI interaction.
 subtitle: <a href='https://www.i.kyoto-u.ac.jp/en/'>School of Informatics</a>, <a href='https://www.kyoto-u.ac.jp/en'>Kyoto University</a>, ktakahira@connect.ust.hk
 
 profile:
